@@ -1,0 +1,10 @@
+{
+"short_name": "beebuddies",
+"name": "beebuddies",
+"id": "/index.html",
+"start_url": "/index.html",
+"display": "web",
+"scope": "/",
+"description": "a buddy chat"
+}
+
